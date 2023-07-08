@@ -1,3 +1,4 @@
 # TicTacToe
 
-Tic Tac Toe game developed in for android.
+Tic Tac Toe game developed in android native
+.
